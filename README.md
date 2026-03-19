@@ -1,15 +1,13 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
 <!--                        HEADER / الترويسة                          -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=stella-sre+👋;مرحباً+بك+في+ملفي;في+طريق+هندسة+الموثوقية+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=stella-sre;مرحباً+بك+في+ملفي;في+طريق+هندسة+الموثوقية+" alt="Typing SVG" />
 
 <br/>
 
 <h3 dir="rtl">
-  🛠️ مطوّر يسعى نحو هندسة موثوقية المواقع · <em>SRE في طور التكوين</em>
+  مطوّر يسعى نحو هندسة موثوقية المواقع · <em>SRE في طور التكوين</em>
 </h3>
 
 <p dir="rtl" style="max-width:600px; margin: auto;">
@@ -19,44 +17,49 @@
 
 <br/>
 
----
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
 <!--                      CERTIFICATES / الشهادات                       -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
 
-<h2 dir="rtl">🏅 الشهادات والاعتمادات</h2>
+<h2 dir="rtl">الشهادات والأوسمة</h2>
 
-<p dir="rtl">
-  <strong>بيئات التطوير السحابية لمهندسي المنصات</strong><br/>
-  <em>صادرة عن: Platform Engineering &nbsp;·&nbsp; 19 مارس 2026</em>
-</p>
-
-<p>
-  <a href="https://www.virtualbadge.io/certificate-validator?credential=fafc2ef8-e43d-4e0a-860b-bd0dcfa3a786" target="_blank">
-    <img src="https://img.shields.io/badge/Cloud_Dev_Environments-Platform_Engineering_①-0A66C2?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Dev Environments for Platform Engineers 1"/>
-  </a>
-  <br/><br/>
-  <a href="https://www.virtualbadge.io/certificate-validator?credential=af6c9875-145c-4ca4-a3ff-eb7e4796341d" target="_blank">
-    <img src="https://img.shields.io/badge/Cloud_Dev_Environments-Platform_Engineering_②-0077B5?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Dev Environments for Platform Engineers 2"/>
-  </a>
-  <br/><br/>
-  <a href="https://www.virtualbadge.io/certificate-validator?credential=2971e911-09db-497a-9c49-8ffed1341e8b" target="_blank">
-    <img src="https://img.shields.io/badge/Cloud_Dev_Environments-Platform_Engineering_③-005582?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Dev Environments for Platform Engineers 3"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="220">
+      <a href="https://www.virtualbadge.io/certificate-validator?credential=fafc2ef8-e43d-4e0a-860b-bd0dcfa3a786" target="_blank">
+        <img src="assets/cdes-for-platform-engineering.png" width="160" alt="Cloud Development Environments for Platform Engineers"/>
+      </a>
+      <br/><br/>
+      <sub dir="rtl"><b>بيئات التطوير السحابية لمهندسي المنصات</b></sub>
+      <br/>
+      <sub dir="rtl">شهادة · Platform Engineering · مارس 2026</sub>
+    </td>
+    <td align="center" width="220">
+      <a href="https://www.virtualbadge.io/certificate-validator?credential=af6c9875-145c-4ca4-a3ff-eb7e4796341d" target="_blank">
+        <img src="assets/platform-engineering.png" width="160" alt="Introduction to Platform Engineering"/>
+      </a>
+      <br/><br/>
+      <sub dir="rtl"><b>مقدمة في هندسة المنصات</b></sub>
+      <br/>
+      <sub dir="rtl">وسام · PlatformEngineering.org · مارس 2026</sub>
+    </td>
+    <td align="center" width="220">
+      <a href="https://www.virtualbadge.io/certificate-validator?credential=2971e911-09db-497a-9c49-8ffed1341e8b" target="_blank">
+        <img src="assets/ai-in-platform-engineering.png" width="160" alt="Intro to AI in Platform Engineering"/>
+      </a>
+      <br/><br/>
+      <sub dir="rtl"><b>مقدمة إلى الذكاء الاصطناعي في هندسة المنصات</b></sub>
+      <br/>
+      <sub dir="rtl">وسام · PlatformEngineering.org · مارس 2026</sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
----
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
 <!--                  SKILLS / المهارات البرمجية                        -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
 
-<h2 dir="rtl">⚡ المهارات التقنية</h2>
+<h2 dir="rtl">المهارات التقنية</h2>
 
-<h4 dir="rtl">🖥️ لغات البرمجة</h4>
+<h4 dir="rtl">لغات البرمجة · Programming Languages</h4>
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
@@ -66,7 +69,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 
-<h4 dir="rtl">🏗️ مسار هندسة الموثوقية — SRE Path</h4>
+<h4 dir="rtl">مسار هندسة الموثوقية · SRE Path</h4>
 
 <p>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
@@ -78,7 +81,7 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
 </p>
 
-<h4 dir="rtl">☁️ منصات السحابة</h4>
+<h4 dir="rtl">منصات السحابة · Cloud Platforms</h4>
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS"/>
@@ -88,13 +91,9 @@
 
 <br/>
 
----
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
 <!--              GITHUB STATS / إحصائيات GitHub                       -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
 
-<h2 dir="rtl">📊 إحصائيات GitHub</h2>
+<h2 dir="rtl">إحصائيات GitHub</h2>
 
 <table>
   <tr>
@@ -119,60 +118,17 @@
 
 <br/>
 
----
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
 <!--          DETAILED METRICS / مقاييس تفصيلية                        -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
 
-<h2 dir="rtl">🔬 مقاييس تفصيلية</h2>
+<h2 dir="rtl">مقاييس تفصيلية</h2>
 
-<!--
-  💡 Para activar métricas avanzadas (PRs, reviews, issues, discussions),
-     usa el proyecto: https://github.com/lowlighter/metrics
-     Agrega el siguiente GitHub Action a tu repo stella-sre/.github/workflows/metrics.yml
-     y descomenta la línea de abajo una vez generada la imagen.
--->
-
-<!-- OPCIÓN A — GitHub Action con lowlighter/metrics (recomendado) -->
-<!--
-<img src="/github/metrics.svg" alt="Metrics" />
--->
-
-<!-- OPCIÓN B — Mientras tanto, usa esta vista resumida pública -->
 <img src="https://github-readme-stats.vercel.app/api?username=stella-sre&show_icons=true&theme=tokyonight&hide_border=true&show=reviews,discussions_started,prs_merged&rank_icon=github&include_all_commits=true" alt="Extended Stats" />
 
 <br/>
 
----
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                   ROADMAP SRE / خارطة الطريق                       -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<h2 dir="rtl">🗺️ خارطة طريقي نحو SRE</h2>
-
-<div dir="rtl" align="right">
-
-| المرحلة | الهدف | الحالة |
-|---------|-------|--------|
-| 🔵 الأساسيات | Linux · Networking · Git | ✅ مكتمل |
-| 🟡 الحاويات | Docker · Kubernetes | 🔄 جارٍ |
-| 🟠 البنية التحتية | Terraform · IaC | 🔄 جارٍ |
-| 🔴 المراقبة | Prometheus · Grafana · Alerting | 📌 قادم |
-| ⚫ SRE كامل | SLOs · Error Budgets · Incident Mgmt | 🎯 الهدف |
-
-</div>
-
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
 <!--                      CONTACT / التواصل                             -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
 
-<h2 dir="rtl">📬 تواصل معي</h2>
+<h2 dir="rtl">تواصل معي</h2>
 
 <p>
   <a href="https://github.com/stella-sre">
@@ -191,7 +147,7 @@
 <br/>
 
 <sub dir="rtl">
-  ⚡ <em>"الموثوقية ليست ميزة — إنها شرط أساسي"</em>
+  <em>"الموثوقية ليست ميزة — إنها شرط أساسي"</em>
 </sub>
 
 </div>
