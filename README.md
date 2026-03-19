@@ -2,9 +2,10 @@
 
 <!--                        HEADER / الترويسة                          -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=stella-sre;مرحباً+بك+في+ملفي;في+طريق+هندسة+الموثوقية+" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=stella-sre;مرحباً+بك+في+ملفي;في+طريق+هندسة+الموثوقية+" alt="Typing SVG" /> -->
 
-<br/>
+Stella SRE
+
 
 <h3 dir="rtl">
   مطوّر يسعى نحو هندسة موثوقية المواقع · <em>SRE في طور التكوين</em>
