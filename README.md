@@ -51,6 +51,15 @@ Stella SRE
       <br/>
       <sub dir="rtl">وسام · PlatformEngineering.org · مارس 2026</sub>
     </td>
+    <td align="center" width="220">
+      <a href="https://www.virtualbadge.io/certificate-validator?credential=d92a49cb-f8bc-44b8-a5a4-4f524a96a754" target="_blank">
+        <img src="assets/vulnerability-management.png" width="160" alt="Vulnerability Management for Platform Engineers"/>
+      </a>
+      <br/><br/>
+      <sub dir="rtl"><b>إدارة الثغرات الأمنية لمهندسي المنصات</b></sub>
+      <br/>
+      <sub dir="rtl">شهادة · Platform Engineering · مارس 2026</sub>
+    </td>
   </tr>
 </table>
 
