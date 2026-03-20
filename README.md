@@ -78,6 +78,15 @@ Stella SRE
       <br/>
       <sub dir="rtl">وسام · PlatformEngineering.org · مارس 2026</sub>
     </td>
+    <td align="center" width="220">
+      <a href="https://www.virtualbadge.io/certificate-validator?credential=fb72a8f0-5e49-470e-afa0-10085b30be93" target="_blank">
+        <img src="assets/observability.png" width="160" alt="Observability for Platform Engineering"/>
+      </a>
+      <br/><br/>
+      <sub dir="rtl"><b>المراقبة والرصد في هندسة المنصات</b></sub>
+      <br/>
+      <sub dir="rtl">شهادة · Platform Engineering · مارس 2026</sub>
+    </td>
   </tr>
 </table>
 
