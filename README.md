@@ -29,7 +29,7 @@ Stella SRE
         <img src="assets/cdes-for-platform-engineering.png" width="160" alt="Cloud Development Environments for Platform Engineers"/>
       </a>
       <br/><br/>
-      <sub dir="rtl"><b>بيئات التطوير السحابية لمهندسي المنصات</b></sub>
+      <sub><b>Cloud Development Environments for Platform Engineers</b></sub>
       <br/>
       <sub dir="rtl">شهادة · Platform Engineering · مارس 2026</sub>
     </td>
@@ -38,7 +38,7 @@ Stella SRE
         <img src="assets/platform-engineering.png" width="160" alt="Introduction to Platform Engineering"/>
       </a>
       <br/><br/>
-      <sub dir="rtl"><b>مقدمة في هندسة المنصات</b></sub>
+      <sub><b>Introduction to Platform Engineering</b></sub>
       <br/>
       <sub dir="rtl">وسام · PlatformEngineering.org · مارس 2026</sub>
     </td>
@@ -47,7 +47,7 @@ Stella SRE
         <img src="assets/ai-in-platform-engineering.png" width="160" alt="Intro to AI in Platform Engineering"/>
       </a>
       <br/><br/>
-      <sub dir="rtl"><b>مقدمة إلى الذكاء الاصطناعي في هندسة المنصات</b></sub>
+      <sub><b>Intro to AI in Platform Engineering</b></sub>
       <br/>
       <sub dir="rtl">وسام · PlatformEngineering.org · مارس 2026</sub>
     </td>
@@ -56,7 +56,7 @@ Stella SRE
         <img src="assets/vulnerability-management.png" width="160" alt="Vulnerability Management for Platform Engineers"/>
       </a>
       <br/><br/>
-      <sub dir="rtl"><b>إدارة الثغرات الأمنية لمهندسي المنصات</b></sub>
+      <sub><b>Vulnerability Management for Platform Engineers</b></sub>
       <br/>
       <sub dir="rtl">شهادة · Platform Engineering · مارس 2026</sub>
     </td>
@@ -65,7 +65,7 @@ Stella SRE
         <img src="assets/kubernetes-cluster-lifecycle-management.png" width="160" alt="Kubernetes Cluster Lifecycle Management in Platform Engineering"/>
       </a>
       <br/><br/>
-      <sub dir="rtl"><b>إدارة دورة حياة مجموعات Kubernetes في هندسة المنصات</b></sub>
+      <sub><b>Kubernetes Cluster Lifecycle Management in Platform Engineering</b></sub>
       <br/>
       <sub dir="rtl">شهادة · Platform Engineering · مارس 2026</sub>
     </td>
@@ -74,7 +74,7 @@ Stella SRE
         <img src="assets/gitops.png" width="160" alt="GitOps for Platform Engineering"/>
       </a>
       <br/><br/>
-      <sub dir="rtl"><b>GitOps في هندسة المنصات</b></sub>
+      <sub><b>GitOps for Platform Engineering</b></sub>
       <br/>
       <sub dir="rtl">وسام · PlatformEngineering.org · مارس 2026</sub>
     </td>
@@ -83,7 +83,7 @@ Stella SRE
         <img src="assets/observability.png" width="160" alt="Observability for Platform Engineering"/>
       </a>
       <br/><br/>
-      <sub dir="rtl"><b>المراقبة والرصد في هندسة المنصات</b></sub>
+      <sub><b>Observability for Platform Engineering</b></sub>
       <br/>
       <sub dir="rtl">شهادة · Platform Engineering · مارس 2026</sub>
     </td>
