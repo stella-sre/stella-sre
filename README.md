@@ -60,6 +60,15 @@ Stella SRE
       <br/>
       <sub dir="rtl">شهادة · Platform Engineering · مارس 2026</sub>
     </td>
+    <td align="center" width="220">
+      <a href="https://www.virtualbadge.io/certificate-validator?credential=214ab3fc-b1e5-460f-aa1a-d053d938229e" target="_blank">
+        <img src="assets/kubernetes-cluster-lifecycle-management.png" width="160" alt="Kubernetes Cluster Lifecycle Management in Platform Engineering"/>
+      </a>
+      <br/><br/>
+      <sub dir="rtl"><b>إدارة دورة حياة مجموعات Kubernetes في هندسة المنصات</b></sub>
+      <br/>
+      <sub dir="rtl">شهادة · Platform Engineering · مارس 2026</sub>
+    </td>
   </tr>
 </table>
 
