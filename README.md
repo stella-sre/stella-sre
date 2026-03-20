@@ -22,71 +22,62 @@ Stella SRE
 
 <h2 dir="rtl">الشهادات والأوسمة</h2>
 
-<table>
+<table dir="rtl">
   <tr>
-    <td align="center" width="220">
-      <a href="https://www.virtualbadge.io/certificate-validator?credential=fafc2ef8-e43d-4e0a-860b-bd0dcfa3a786" target="_blank">
-        <img src="assets/cdes-for-platform-engineering.png" width="160" alt="Cloud Development Environments for Platform Engineers"/>
-      </a>
-      <br/><br/>
-      <sub><b>Cloud Development Environments for Platform Engineers</b></sub>
-      <br/>
-      <sub dir="rtl">شهادة · Platform Engineering · مارس 2026</sub>
-    </td>
-    <td align="center" width="220">
-      <a href="https://www.virtualbadge.io/certificate-validator?credential=af6c9875-145c-4ca4-a3ff-eb7e4796341d" target="_blank">
-        <img src="assets/platform-engineering.png" width="160" alt="Introduction to Platform Engineering"/>
-      </a>
-      <br/><br/>
-      <sub><b>Introduction to Platform Engineering</b></sub>
-      <br/>
-      <sub dir="rtl">وسام · PlatformEngineering.org · مارس 2026</sub>
-    </td>
-    <td align="center" width="220">
-      <a href="https://www.virtualbadge.io/certificate-validator?credential=2971e911-09db-497a-9c49-8ffed1341e8b" target="_blank">
-        <img src="assets/ai-in-platform-engineering.png" width="160" alt="Intro to AI in Platform Engineering"/>
-      </a>
-      <br/><br/>
-      <sub><b>Intro to AI in Platform Engineering</b></sub>
-      <br/>
-      <sub dir="rtl">وسام · PlatformEngineering.org · مارس 2026</sub>
-    </td>
-    <td align="center" width="220">
-      <a href="https://www.virtualbadge.io/certificate-validator?credential=d92a49cb-f8bc-44b8-a5a4-4f524a96a754" target="_blank">
-        <img src="assets/vulnerability-management.png" width="160" alt="Vulnerability Management for Platform Engineers"/>
-      </a>
-      <br/><br/>
-      <sub><b>Vulnerability Management for Platform Engineers</b></sub>
-      <br/>
-      <sub dir="rtl">شهادة · Platform Engineering · مارس 2026</sub>
-    </td>
-    <td align="center" width="220">
-      <a href="https://www.virtualbadge.io/certificate-validator?credential=214ab3fc-b1e5-460f-aa1a-d053d938229e" target="_blank">
-        <img src="assets/kubernetes-cluster-lifecycle-management.png" width="160" alt="Kubernetes Cluster Lifecycle Management in Platform Engineering"/>
-      </a>
-      <br/><br/>
-      <sub><b>Kubernetes Cluster Lifecycle Management in Platform Engineering</b></sub>
-      <br/>
-      <sub dir="rtl">شهادة · Platform Engineering · مارس 2026</sub>
-    </td>
-    <td align="center" width="220">
-      <a href="https://www.virtualbadge.io/certificate-validator?credential=6d64bc5e-154e-4d1c-a1ad-aef3d83fdf80" target="_blank">
-        <img src="assets/gitops.png" width="160" alt="GitOps for Platform Engineering"/>
-      </a>
-      <br/><br/>
-      <sub><b>GitOps for Platform Engineering</b></sub>
-      <br/>
-      <sub dir="rtl">وسام · PlatformEngineering.org · مارس 2026</sub>
-    </td>
-    <td align="center" width="220">
-      <a href="https://www.virtualbadge.io/certificate-validator?credential=fb72a8f0-5e49-470e-afa0-10085b30be93" target="_blank">
-        <img src="assets/observability.png" width="160" alt="Observability for Platform Engineering"/>
-      </a>
-      <br/><br/>
-      <sub><b>Observability for Platform Engineering</b></sub>
-      <br/>
-      <sub dir="rtl">شهادة · Platform Engineering · مارس 2026</sub>
-    </td>
+    <th>#</th>
+    <th>الوسام</th>
+    <th>العنوان</th>
+    <th>النوع</th>
+    <th>الجهة</th>
+  </tr>
+  <tr>
+    <td>١</td>
+    <td><a href="https://www.virtualbadge.io/certificate-validator?credential=af6c9875-145c-4ca4-a3ff-eb7e4796341d" target="_blank"><img src="assets/platform-engineering.png" width="60" alt="Introduction to Platform Engineering"/></a></td>
+    <td><b>Introduction to Platform Engineering</b></td>
+    <td>وسام</td>
+    <td>PlatformEngineering.org · مارس 2026</td>
+  </tr>
+  <tr>
+    <td>٢</td>
+    <td><a href="https://www.virtualbadge.io/certificate-validator?credential=2971e911-09db-497a-9c49-8ffed1341e8b" target="_blank"><img src="assets/ai-in-platform-engineering.png" width="60" alt="Intro to AI in Platform Engineering"/></a></td>
+    <td><b>Intro to AI in Platform Engineering</b></td>
+    <td>وسام</td>
+    <td>PlatformEngineering.org · مارس 2026</td>
+  </tr>
+  <tr>
+    <td>٣</td>
+    <td><a href="https://www.virtualbadge.io/certificate-validator?credential=6d64bc5e-154e-4d1c-a1ad-aef3d83fdf80" target="_blank"><img src="assets/gitops.png" width="60" alt="GitOps for Platform Engineering"/></a></td>
+    <td><b>GitOps for Platform Engineering</b></td>
+    <td>وسام</td>
+    <td>PlatformEngineering.org · مارس 2026</td>
+  </tr>
+  <tr>
+    <td>٤</td>
+    <td><a href="https://www.virtualbadge.io/certificate-validator?credential=fb72a8f0-5e49-470e-afa0-10085b30be93" target="_blank"><img src="assets/observability.png" width="60" alt="Observability for Platform Engineering"/></a></td>
+    <td><b>Observability for Platform Engineering</b></td>
+    <td>شهادة</td>
+    <td>Platform Engineering · مارس 2026</td>
+  </tr>
+  <tr>
+    <td>٥</td>
+    <td><a href="https://www.virtualbadge.io/certificate-validator?credential=d92a49cb-f8bc-44b8-a5a4-4f524a96a754" target="_blank"><img src="assets/vulnerability-management.png" width="60" alt="Vulnerability Management for Platform Engineers"/></a></td>
+    <td><b>Vulnerability Management for Platform Engineers</b></td>
+    <td>شهادة</td>
+    <td>Platform Engineering · مارس 2026</td>
+  </tr>
+  <tr>
+    <td>٦</td>
+    <td><a href="https://www.virtualbadge.io/certificate-validator?credential=fafc2ef8-e43d-4e0a-860b-bd0dcfa3a786" target="_blank"><img src="assets/cdes-for-platform-engineering.png" width="60" alt="Cloud Development Environments for Platform Engineers"/></a></td>
+    <td><b>Cloud Development Environments for Platform Engineers</b></td>
+    <td>شهادة</td>
+    <td>Platform Engineering · مارس 2026</td>
+  </tr>
+  <tr>
+    <td>٧</td>
+    <td><a href="https://www.virtualbadge.io/certificate-validator?credential=214ab3fc-b1e5-460f-aa1a-d053d938229e" target="_blank"><img src="assets/kubernetes-cluster-lifecycle-management.png" width="60" alt="Kubernetes Cluster Lifecycle Management in Platform Engineering"/></a></td>
+    <td><b>Kubernetes Cluster Lifecycle Management in Platform Engineering</b></td>
+    <td>شهادة</td>
+    <td>Platform Engineering · مارس 2026</td>
   </tr>
 </table>
 
