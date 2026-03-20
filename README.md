@@ -69,6 +69,15 @@ Stella SRE
       <br/>
       <sub dir="rtl">شهادة · Platform Engineering · مارس 2026</sub>
     </td>
+    <td align="center" width="220">
+      <a href="https://www.virtualbadge.io/certificate-validator?credential=6d64bc5e-154e-4d1c-a1ad-aef3d83fdf80" target="_blank">
+        <img src="assets/gitops.png" width="160" alt="GitOps for Platform Engineering"/>
+      </a>
+      <br/><br/>
+      <sub dir="rtl"><b>GitOps في هندسة المنصات</b></sub>
+      <br/>
+      <sub dir="rtl">وسام · PlatformEngineering.org · مارس 2026</sub>
+    </td>
   </tr>
 </table>
 
