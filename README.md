@@ -44,21 +44,13 @@ Stella SRE
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
 </p>
 
-<h4 dir="rtl">منصات السحابة · Cloud Platforms</h4>
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-</p>
-
 <br/>
 
 <!--              GITHUB STATS / إحصائيات GitHub                       -->
 
 <h2 dir="rtl">إحصائيات GitHub</h2>
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=stella-sre&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
@@ -67,7 +59,7 @@ Stella SRE
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stella-sre&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
     </td>
   </tr>
-</table>
+</table> -->
 
 <br/>
 
@@ -83,11 +75,11 @@ Stella SRE
 
 <!--          DETAILED METRICS / مقاييس تفصيلية                        -->
 
-<h2 dir="rtl">مقاييس تفصيلية</h2>
+<!-- <h2 dir="rtl">مقاييس تفصيلية</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=stella-sre&show_icons=true&theme=tokyonight&hide_border=true&show=reviews,discussions_started,prs_merged&rank_icon=github&include_all_commits=true" alt="Extended Stats" />
 
-<br/>
+<br/> -->
 
 <!--                      CONTACT / التواصل                             -->
 
