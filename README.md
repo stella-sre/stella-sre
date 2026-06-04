@@ -46,43 +46,6 @@ Stella SRE
 
 <br/>
 
-<!--              GITHUB STATS / إحصائيات GitHub                       -->
-
-<h2 dir="rtl">إحصائيات GitHub</h2>
-
-<!-- <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=stella-sre&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stella-sre&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-    </td>
-  </tr>
-</table> -->
-
-<br/>
-
-<!--          DETAILED METRICS / مقاييس تفصيلية                        -->
-
-<!-- <h2 dir="rtl">مقاييس تفصيلية</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=stella-sre&show_icons=true&theme=tokyonight&hide_border=true&show=reviews,discussions_started,prs_merged&rank_icon=github&include_all_commits=true" alt="Extended Stats" />
-
-<br/> -->
-
-<!--                      CONTACT / التواصل                             -->
-
-<h2 dir="rtl">تواصل معي</h2>
-
-<p>
-  <a href="https://github.com/stella-sre">
-    <img src="https://img.shields.io/badge/GitHub-stella--sre-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
