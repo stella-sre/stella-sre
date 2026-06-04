@@ -63,16 +63,6 @@ Stella SRE
 
 <br/>
 
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=stella-sre&theme=tokyonight&hide_border=true&locale=ar&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=stella-sre&theme=tokyo-night&hide_border=true&area=true&custom_title=نشاط+الكود+عبر+الزمن" alt="Activity Graph" />
-
-<br/>
-
 <!--          DETAILED METRICS / مقاييس تفصيلية                        -->
 
 <!-- <h2 dir="rtl">مقاييس تفصيلية</h2>
