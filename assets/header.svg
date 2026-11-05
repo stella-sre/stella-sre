@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#00ADD8"/><stop offset=".5" stop-color="#7B42BC"/><stop offset="1" stop-color="#E6522C"/></linearGradient><linearGradient id="gl" gradientUnits="userSpaceOnUse" x1="0" x2="1000" y1="0" y2="0"><stop offset="0" stop-color="#00ADD8"/><stop offset=".5" stop-color="#7B42BC"/><stop offset="1" stop-color="#E6522C"/></linearGradient></defs>
+<style>
+.fade{animation:fade .8s ease backwards}.d1{animation-delay:.3s}.d2{animation-delay:.6s}.d3{animation-delay:.9s}
+@keyframes fade{from{opacity:0}}
+.pulse{animation:pulse 1.6s ease-in-out infinite}@keyframes pulse{50%{opacity:.25}}
+.draw{stroke-dasharray:1400;animation:draw 3s ease backwards .4s}@keyframes draw{from{stroke-dashoffset:1400}}
+</style>
+<rect x=".5" y=".5" width="999" height="279" rx="14" fill="#0d1117" stroke="#30363d"/>
+
+<clipPath id="c"><rect width="1000" height="280" rx="14"/></clipPath><g clip-path="url(#c)"><line x1="0" y1="0" x2="0" y2="280" stroke="#161b22"/><line x1="40" y1="0" x2="40" y2="280" stroke="#161b22"/><line x1="80" y1="0" x2="80" y2="280" stroke="#161b22"/><line x1="120" y1="0" x2="120" y2="280" stroke="#161b22"/><line x1="160" y1="0" x2="160" y2="280" stroke="#161b22"/><line x1="200" y1="0" x2="200" y2="280" stroke="#161b22"/><line x1="240" y1="0" x2="240" y2="280" stroke="#161b22"/><line x1="280" y1="0" x2="280" y2="280" stroke="#161b22"/><line x1="320" y1="0" x2="320" y2="280" stroke="#161b22"/><line x1="360" y1="0" x2="360" y2="280" stroke="#161b22"/><line x1="400" y1="0" x2="400" y2="280" stroke="#161b22"/><line x1="440" y1="0" x2="440" y2="280" stroke="#161b22"/><line x1="480" y1="0" x2="480" y2="280" stroke="#161b22"/><line x1="520" y1="0" x2="520" y2="280" stroke="#161b22"/><line x1="560" y1="0" x2="560" y2="280" stroke="#161b22"/><line x1="600" y1="0" x2="600" y2="280" stroke="#161b22"/><line x1="640" y1="0" x2="640" y2="280" stroke="#161b22"/><line x1="680" y1="0" x2="680" y2="280" stroke="#161b22"/><line x1="720" y1="0" x2="720" y2="280" stroke="#161b22"/><line x1="760" y1="0" x2="760" y2="280" stroke="#161b22"/><line x1="800" y1="0" x2="800" y2="280" stroke="#161b22"/><line x1="840" y1="0" x2="840" y2="280" stroke="#161b22"/><line x1="880" y1="0" x2="880" y2="280" stroke="#161b22"/><line x1="920" y1="0" x2="920" y2="280" stroke="#161b22"/><line x1="960" y1="0" x2="960" y2="280" stroke="#161b22"/><line x1="0" y1="0" x2="1000" y2="0" stroke="#161b22"/><line x1="0" y1="40" x2="1000" y2="40" stroke="#161b22"/><line x1="0" y1="80" x2="1000" y2="80" stroke="#161b22"/><line x1="0" y1="120" x2="1000" y2="120" stroke="#161b22"/><line x1="0" y1="160" x2="1000" y2="160" stroke="#161b22"/><line x1="0" y1="200" x2="1000" y2="200" stroke="#161b22"/><line x1="0" y1="240" x2="1000" y2="240" stroke="#161b22"/></g>
+<text x="60" y="118" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="78" font-weight="800" fill="url(#g)" class="fade">stella</text>
+<text x="64" y="160" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="20" fill="#e6edf3" class="fade d1">site reliability engineering</text>
+<text x="64" y="190" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#7d8590" class="fade d2">sicuani, cusco · perú</text>
+<g transform="translate(700,62)" class="fade d2">
+  <rect width="240" height="34" rx="17" fill="#0f2a1a" stroke="#238636"/>
+  <circle cx="20" cy="17" r="5" fill="#3fb950" class="pulse"/>
+  <text x="34" y="22" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#3fb950">all systems operational</text>
+</g>
+<g transform="translate(704,116)" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" class="fade d3">
+  <text fill="#7d8590">uptime<tspan x="80" fill="#e6edf3">99.95%</tspan></text>
+  <text y="22" fill="#7d8590">p99<tspan x="80" fill="#e6edf3">120ms</tspan></text>
+  <text y="44" fill="#7d8590">budget<tspan x="80" fill="#e6edf3">72% left</tspan></text>
+</g>
+<path d="M0.0,232.4 L34.5,230.2 L69.0,232.4 L103.4,228.0 L137.9,230.2 L172.4,232.4 L206.9,230.2 L241.4,232.4 L275.9,228.0 L310.3,230.2 L344.8,232.4 L379.3,230.2 L413.8,232.4 L448.3,228.0 L482.8,230.2 L517.2,232.4 L551.7,230.2 L586.2,232.4 L620.7,230.2 L655.2,201.6 L689.7,228.0 L724.1,230.2 L758.6,232.4 L793.1,230.2 L827.6,232.4 L862.1,230.2 L896.6,228.0 L931.0,232.4 L965.5,230.2 L1000.0,232.4" fill="none" stroke="url(#gl)" stroke-width="2.5" stroke-linejoin="round" class="draw"/>
+
+</svg>
