@@ -112,4 +112,25 @@ write("roadmap.svg", 1000, 220, body, css='''
 .draw{stroke-dasharray:840;animation:draw 2.4s ease backwards}@keyframes draw{from{stroke-dashoffset:840}}
 .ring{transform-box:fill-box;transform-origin:center;animation:ring 1.8s ease-out infinite}@keyframes ring{from{opacity:.9;transform:scale(1)}to{opacity:0;transform:scale(2.4)}}
 ''')
+# ---------- project cards ----------
+projects = [
+  ("switchboard",    "#00ADD8", "3 services · 6 messaging flows · live dashboard", [("Go","#00ADD8"),("NATS","#27AAE1"),("Redis","#DC382D")]),
+  ("stego-sign",     "#7B42BC", "ed25519 signing · steganography · audit log",    [("Rust","#B7410E"),("WASM","#654FF0"),("Postgres","#4169E1")]),
+  ("cve-classifier", "#E6522C", "cve severity prediction with distilbert",        [("Python","#3776AB"),("PyTorch","#EE4C2C")]),
+  ("system_monitor", "#B7410E", "real-time cpu · memory · disk · network",        [("Rust","#B7410E"),("CLI",MUTED)]),
+]
+for name, accent, desc, tags in projects:
+    body = f'''
+<rect x="0" y="20" width="4" height="110" rx="2" fill="{accent}"/>
+<text x="32" y="52" font-family="{MONO}" font-size="12" fill="{MUTED}">stella-sre /</text>
+<text x="32" y="80" font-family="{SANS}" font-size="24" font-weight="700" fill="{FG}">{name}</text>
+<text x="32" y="104" font-family="{MONO}" font-size="12.5" fill="{MUTED}" opacity=".9">{desc}</text>
+'''
+    x, tg = 37, ""
+    for t, c in tags:
+        tg += f'<circle cx="{x:g}" cy="125" r="5" fill="{c}"/><text x="{x+11:g}" y="130" font-family="{MONO}" font-size="13" fill="{MUTED}">{t}</text>'
+        x = round(x + 11 + len(t)*13*0.62 + 27, 2)
+    body += tg + f'\n<text x="448" y="52" text-anchor="end" font-family="{MONO}" font-size="16" fill="{accent}">↗</text>\n'
+    write(f"project-{name}.svg", 480, 150, body)
+
 print(sorted(os.listdir(OUT)))
